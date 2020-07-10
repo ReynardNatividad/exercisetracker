@@ -1,0 +1,71 @@
+{
+    "username" : "reyn",
+    "description" : "bike ride",
+    "duration" : 30,
+    "date" : 
+}
+
+{
+    "username" : "reyn",
+    "description" : "bike ride",
+    "duration" : 30,
+    "date" : 
+}
+
+[
+    {
+        "_id": "5f03233e9071b40220cebe3f",
+        "username": "reyn",
+        "createdAt": "2020-07-06T13:12:30.168Z",
+        "updatedAt": "2020-07-06T13:12:30.168Z",
+        "__v": 0
+    },
+    {
+        "_id": "5f03235f9071b40220cebe40",
+        "username": "july",
+        "createdAt": "2020-07-06T13:13:03.882Z",
+        "updatedAt": "2020-07-06T13:13:03.882Z",
+        "__v": 0
+    },
+    {
+        "_id": "5f03dae4d7c6e546182d846c",
+        "username": "junard",
+        "createdAt": "2020-07-07T02:16:04.568Z",
+        "updatedAt": "2020-07-07T02:16:04.568Z",
+        "__v": 0
+    },
+    {
+        "_id": "5f03dcb3cbc18a353c17be66",
+        "username": "lotlot",
+        "createdAt": "2020-07-07T02:23:47.393Z",
+        "updatedAt": "2020-07-07T02:23:47.393Z",
+        "__v": 0
+    },
+    {
+        "_id": "5f03dcd1cbc18a353c17be67",
+        "username": "mitot",
+        "createdAt": "2020-07-07T02:24:17.158Z",
+        "updatedAt": "2020-07-07T02:24:17.158Z",
+        "__v": 0
+    }
+]
+
+
+{
+    "_id": "5f04750ed5cf220200582530",
+    "username": "reyn",
+    "description": "swim",
+    "duration": 10,
+    "date": "2020-07-16T13:12:30.168Z",
+    "createdAt": "2020-07-07T13:13:50.366Z",
+    "updatedAt": "2020-07-07T13:16:58.534Z",
+    "__v": 0
+}
+
+{
+    "_id": "5f04750ed5cf220200582530",
+    "username": "reyn",
+    "description": "swim",
+    "duration": 12,
+    "date": "2020-07-16T13:12:30.168Z"
+}
